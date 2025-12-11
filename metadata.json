@@ -1,0 +1,5 @@
+{
+  "name": "VAT/Sales Tax Calculator",
+  "description": "A modern, responsive VAT/Sales Tax Calculator built with React and Tailwind CSS. Instantly calculates tax additions and removals with a clean, financial-focused interface and a cosmic theme.",
+  "requestFramePermissions": []
+}
