@@ -9,7 +9,7 @@ A high-performance, privacy-focused financial tool built with **React 19**, **Ty
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 
-### 🚀 [**LIVE DEMO: doodax.com**](https://doodax.com)
+### 🚀 [**LIVE DEMO: doodax.com**](https://doodax.com/tools/vat-sales-tax-calculator/index.html)
 
 </div>
 
