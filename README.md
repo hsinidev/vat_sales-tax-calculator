@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Vat Sales Tax Calculator
-### *Modern, High-Performance JavaScript Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Vat%20Sales%20Tax%20Calculator&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Vat Sales Tax Calculator Header Banner" />
+
+  <h1>🚀 Vat Sales Tax Calculator</h1>
+  <p><em>Modern, High-Performance JavaScript Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge" alt="Framework: JavaScript" /></a>
+    <a href="https://github.com/hsinidev/vat_sales-tax-calculator"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Vat Sales Tax Calculator** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -25,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -32,89 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# 🪐 VAT / Sales Tax Calculator
-
-A high-performance, privacy-focused financial tool built with **React 19**, **TypeScript**, and **Tailwind CSS**. This application provides instant calculations for VAT and Sales Tax (Add/Remove) with a stunning, immersive cosmic interface.
-
-<div align="center">
-
-
-### 🚀 [**LIVE DEMO: doodax.com**](https://doodax.com/tools/vat-sales-tax-calculator/index.html)
-
-</div>
-
----
-
-## ✨ Features
-
-- **⚡ Instant Math Engine**: Calculations happen in real-time as you type. Zero latency.
-- **🔄 Dual Modes**:
-  - **Add Tax**: Calculate Gross Price from Net Price.
-  - **Remove Tax**: Reverse calculate Net Price from Gross Price.
-- **🌌 Immersive UX**: A fully responsive "Cosmic Galaxy" theme with CSS-only animations (stars, nebulas) and glassmorphism.
-- **📱 Fully Responsive**: Optimized for mobile, tablet, and desktop viewports.
-- **🔒 Privacy First**: 100% Client-side execution. No user data is sent to any server.
-- **📈 SEO Optimized**: Pre-configured with JSON-LD Schema (SoftwareApplication, Article, FAQ), `robots.txt`, and sitemap for maximum search visibility.
-- **📚 Educational Content**: Includes a comprehensive, collapsible guide on global tax systems.
-
-## 📂 Project Structure
-
-```
-/
-├── public/                 # Static assets
-│   ├── favicon.svg         # App Icon
-│   ├── robots.txt          # Crawler instructions
-│   └── sitemap.xml         # SEO Sitemap
-├── src/
-│   ├── components/
-│   │   ├── ThemeLayout.tsx       # Main layout, Galaxy background, Modals
-│   │   └── TaxCalculatorTool.tsx # Core calculator logic & UI
-│   ├── utils/
-│   │   ├── SeoArticle.tsx        # SEO Content component
-│   │   └── TaxMath.ts            # Pure TypeScript math functions
-│   ├── App.tsx                   # Application Entry
-│   └── index.tsx                 # DOM Mounting
-├── index.html              # HTML entry with Metadata & Schema
-└── ...
-```
-
-## 🛠️ Installation & Setup
-
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/hsinidev/vat-sales-tax-calculator.git
-    cd vat-sales-tax-calculator
-    ```
-
-2.  **Install dependencies**
-    ```bash
-    npm install
-    # or
-    yarn install
-    ```
-
-3.  **Run Development Server**
-    ```bash
-    npm run dev
-    ```
-    Open `http://localhost:5173` to view it in the browser.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-
-
----
-
-<div align="center">
-  <p>Designed & Developed with ❤️ by <strong>HSINI MOHAMED</strong></p>
-  <a href="https://doodax.com">doodax.com</a> • <a href="mailto:hsini.web@gmail.com">hsini.web@gmail.com</a>
-</div>
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
